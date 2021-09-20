@@ -23,7 +23,7 @@
 
 ### Ambiente de Desenvolvimento
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="VSCode" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
 </div>
 
@@ -31,9 +31,10 @@
 
 ## Demo ✨
 
-<h1 align = "center">
-  <img ali = "Jogo-da-velha" title = "Jogo da Velha" width="500" src = "src/Jogo_da_velha.jpg"/>
-</h1>
+<div align = "center" style="display: inline_block">
+  <img ali = "Jogo-da-velha" title = "Jogo da Velha" width="525" src = "src/Jogo_da_velha.gif"/>
+  <img ali = "Jogo-da-velha" title = "Jogo da Velha Front-end" width=" 135" src = "src/Jogo_da_velha_front.png"/>
+</div>
 
 </br>
 
