@@ -1,4 +1,6 @@
-#   JOGO DA VELHA
+<div align = "center">
+  <img ali = "Jogo-da-velha" title = "Jogo da Velha" width="500" src = "src/Jogo_da_velha.png"/>
+</div>
 
 </br>
 
@@ -6,6 +8,7 @@
 
 <p align = "justify"> Front-end web, desenvolvido em <img align="center" alt="React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">, do jogo da velha.</p>
 
+</br>
 
 ## Aplicação 💻
 
@@ -23,6 +26,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="VSCode" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
 </div>
+
+</br>
 
 ## Demo ✨
 
