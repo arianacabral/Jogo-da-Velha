@@ -1,0 +1,59 @@
+body {
+  font: 14px "Century Gothic", "Futura", sans-serif;
+  margin: 10px;
+}
+
+.game {
+  display: flex;
+}
+
+.game-info {
+  margin-left: 70px;
+}
+
+.square {
+  background: #ffffff;
+  border: 1px solid #999999;
+  font-size: 44px;
+  font-weight: bold;
+  float: left;
+  line-height: 54px;
+  height: 54px;
+  margin-right: 0px;
+  margin-right: -1px;
+  margin-top: -1px;
+  text-align: center;
+  width: 54px;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.app{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.header {
+  background: rgb(153, 92, 184);
+  padding: 50px;
+  color: white;
+  font-size: 28px;
+  text-align:center;
+}
+
+.footer {
+  background: #9f63a8;
+  color: white;
+  font-size: 8px;
+  padding: 10px;
+}
+
+.title{
+  color: white;
+  font-size: 33px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
