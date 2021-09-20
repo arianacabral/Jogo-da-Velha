@@ -1,5 +1,5 @@
 <div align = "center">
-  <img ali = "Jogo-da-velha" title = "Jogo da Velha" width="500" src = "src"/>
+  <img ali = "Jogo-da-velha" title = "Jogo da Velha" width="500" src = "src/Jogo_da_velha_logo.png"/>
 </div>
 
 </br>
